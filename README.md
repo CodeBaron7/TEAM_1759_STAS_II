@@ -64,7 +64,8 @@ pip install -r requirements.txt
    GPU Memory至少需24GB或以上
    
    CUDA Version: 11.5
-   
+
+### Local端虛擬環境建置教學
    建立虛擬環境並進入
 ```
 Python -m venv stas_venv
