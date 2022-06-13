@@ -34,8 +34,9 @@ git clone https://github.com/CodeBaron7/TEAM_1759_STAS_II.git
       |   ├─submit_images      # Inference後提交圖片存放處
       |   ├─Train1_models      # From https://drive.google.com/file/d/1phcAQ1sSoFUQ4JhGbVQFZNSXE_mzLqv-/view?usp=sharing
       |   └─Train2_models      # From https://drive.google.com/file/d/1phcAQ1sSoFUQ4JhGbVQFZNSXE_mzLqv-/view?usp=sharing
-      ├─requirements.txt           
-      └─README.md  
+      ├─LICENSE
+      ├─README.md         
+      └─requirements.txt
 ```
 注意: Dataset 與result 內各資料夾僅有一層，例如Private_Image打開即為Private_00000000.jpg ~ Private_00000183.jpg
 
@@ -57,8 +58,8 @@ pip install -r requirements.txt
 
    建立虛擬環境並進入
 ```
-Python -m venv stas
-cd stas\Scripts
+Python -m venv stas_venv
+cd stas_venv\Scripts
 activate
 ```
    更新pip與setuptools
