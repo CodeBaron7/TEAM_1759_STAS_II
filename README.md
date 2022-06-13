@@ -56,9 +56,13 @@ pip install -r requirements.txt
    下方有環境建置教學
    
    作業系統 : Win10 
+   
    Python : 3.9.9         (建議至少3.8以上)
+   
    Pytorch : 1.11.0+cu113 (根據CUDA Versionv選擇)
+   
    GPU Memory至少需24GB或以上
+   
    CUDA Version: 11.5
    
    建立虛擬環境並進入
