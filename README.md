@@ -87,7 +87,7 @@ pip install -r requirements.txt
 ```
 
 ## Train
-   至STAS\code路徑下輸入  
+   至TEAM_1759_STAS_II/code路徑下輸入  
 ```sh
 ipython
 ```
@@ -110,7 +110,7 @@ ipython
 ## Inference
 注意:使用result/Train2_models內best_retrain_Fold00、01、02.bin模型做Ensemble
 
-   至STAS/code路徑下輸入  
+   至TEAM_1759_STAS_II/code路徑下輸入  
 ```sh
 ipython
 ```
