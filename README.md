@@ -8,7 +8,7 @@
 
    下載程式碼
 ```
-git clone https://github.com/CodeBaron7/test.git
+git clone https://github.com/CodeBaron7/TEAM_1759_STAS_II.git
 ```
 
 ## 資料準備
