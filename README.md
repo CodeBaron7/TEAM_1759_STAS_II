@@ -21,7 +21,7 @@ git clone https://github.com/CodeBaron7/test.git
 ### 檔案結構:
 ```
 .
-└── STAS
+└── TEAM_1759_STAS_II
       ├─code
       |   ├─Train1.ipynb       # 第一次訓練
       |   ├─Train2.ipynb       # 第二次訓練
