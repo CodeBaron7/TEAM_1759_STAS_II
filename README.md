@@ -27,7 +27,7 @@ git clone https://github.com/CodeBaron7/TEAM_1759_STAS_II.git
       |   ├─Train2.ipynb       # 第二次訓練
       |   └─Inference.ipynb  
       ├─Dataset
-      |   ├─Private_Image      # From Private_Image.zip
+      |   ├─Submit_Image       # From Private_Image.zip
       |   ├─Train_Images       # From SEG_Train_Dataset.zip
       |   └─Train_masks        # From https://drive.google.com/file/d/1EZZcXG09Fk5XDALJapJRfatVtHiQbGj2/view?usp=sharing
       ├─result
