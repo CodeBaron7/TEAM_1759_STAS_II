@@ -38,7 +38,7 @@ git clone https://github.com/CodeBaron7/TEAM_1759_STAS_II.git
       ├─README.md         
       └─requirements.txt
 ```
-注意: Dataset 與result 內各資料夾僅有一層，例如Private_Image打開即為Private_00000000.jpg ~ Private_00000183.jpg
+注意: Dataset 與result 內各資料夾僅有一層，例如DatasetSubmit_Image打開即為Private_00000000.jpg ~ Private_00000183.jpg
 
 ## 環境配置:
 
