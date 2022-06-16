@@ -38,7 +38,7 @@ git clone https://github.com/CodeBaron7/TEAM_1759_STAS_II.git
       ├─README.md         
       └─requirements.txt
 ```
-注意: Dataset 與result 內各資料夾僅有一層，例如DatasetSubmit_Image打開即為Private_00000000.jpg ~ Private_00000183.jpg
+注意: Dataset 與result 內各資料夾僅有一層，例如Dataset\Submit_Image打開即為Private_00000000.jpg ~ Private_00000183.jpg
 
 ## 環境配置:
 
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 ```
 
 ## Train
-   至TEAM_1759_STAS_II/code路徑下輸入  
+   至TEAM_1759_STAS_II\code路徑下輸入  
 ```sh
 ipython
 ```
@@ -96,9 +96,9 @@ ipython
 ```sh
 %run Train1.ipynb
 ```
-   訓練後模型存放於result/Train1_models
+   訓練後模型存放於result\Train1_models
 ### 第二次訓練
-注意: 第二次訓練時 result/Train1_models資料夾內要有第一次訓練之模型
+注意: 第二次訓練時 result\Train1_models資料夾內要有第一次訓練之模型
 
 可自行訓練或是至https://drive.google.com/file/d/1phcAQ1sSoFUQ4JhGbVQFZNSXE_mzLqv-/view?usp=sharing 下載
    
@@ -106,11 +106,11 @@ ipython
 ```sh
 %run Train2.ipynb
 ```
-訓練後模型存放於result/Train2_models
+訓練後模型存放於result\Train2_models
 ## Inference
-注意:使用result/Train2_models內best_retrain_Fold00、01、02.bin模型做Ensemble
+注意:使用result\Train2_models內best_retrain_Fold00、01、02.bin模型做Ensemble
 
-   至TEAM_1759_STAS_II/code路徑下輸入  
+   至TEAM_1759_STAS_II\code路徑下輸入  
 ```sh
 ipython
 ```
@@ -118,4 +118,4 @@ ipython
 ```sh
 %run Inference.ipynb
 ```
-Inference後圖片存放於result/submit_images
+Inference後圖片存放於result\submit_images
